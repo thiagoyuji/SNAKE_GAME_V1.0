@@ -1,0 +1,3 @@
+/home/stninubuntu/LinuxProjects/Games/SnakeGame/SnakeGameC/Build/CMakeFiles/rebuild_cache.dir
+/home/stninubuntu/LinuxProjects/Games/SnakeGame/SnakeGameC/Build/CMakeFiles/edit_cache.dir
+/home/stninubuntu/LinuxProjects/Games/SnakeGame/SnakeGameC/Build/CMakeFiles/SnakeGame.dir
